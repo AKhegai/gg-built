@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa939141-c6d9-44c1-9db8-ceab6bfe4a88" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/app.f0e26def7c14d434f4e06675228baf27.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/app.f0e26def7c14d434f4e06675228baf27.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/FundamentalBrigade.42b692f.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/FundamentalBrigade.d8bbc66.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/1-glyantsevii-korpus-se-800pro.02122b9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/1-lampochki-fotoelementov.5f54321.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/1-profil-rhs1170.8.4ad6494.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/1.12b835b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/1.596abde.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/1111111.fcc2eac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/11_okno_akrilovoe_452h302_korichn._s_raskladkoi_krest_dlya_panelei_so_strukturoi_filenka_dh85628.b8f05a7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/12.68358e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/12.83ea894.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/12.96a4ed3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/13.f219e41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/14.d0ec3b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/15.486c99b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/16.f5789e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/1_legkii_i_bistrii_montaj.45ec6c0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/1_polotno_iz_sendvich-panelei_tolshinoi_40_mm.c7af86d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2-metalicheskii-logotip-se-800pro.d7f4ef2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2-wi-fi-modul.3506fba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_bistrovozvodimoe_zdanie_18_m_vneshnii_vid.27aae4a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_obshii_vid_rsd01-vnutrennyaya_chast.db5e7d8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_profil_rhs117p0.8.01c7283.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_tambura_1.1.a7afc7f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_tambura_1.2.40ade4e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_tambura_2.1.4a6a82c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_tambura_2.2.4835991.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_tambura_3.1.d43a019.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_tambura_3.2.b93395a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_tambura_4.1.5634a16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_tambura_4.2.8a2c49e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/2_vstroennii_rsd01.34aac1f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/3_svetodiodnaya_lampa_se-800pro.0363a65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_germetizatora_1.1.e3871d8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_germetizatora_1.2.a1fa2a5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_germetizatora_2.1.fd2b49c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_germetizatora_2.2.37270ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_germetizatora_3.1.fd2f65a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_germetizatora_3.2.ee7afaa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_germetizatora_4.1.b6c4b4e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_germetizatora_4.2.3a5fd64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_platformi_1.1.8101e16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_platformi_1.2.2e5c381.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_platformi_2.1.0152173.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_platformi_2.2.0344c69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_platformi_3.1.bfe9c6f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_platformi_4.1.5634a16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/4_stola_podemnih_3.2_.067c3b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/6_okno_akrilovoe_607h202_-_dh85602.9ccea39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/FundamentalBrigade.8d77763.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_1.1.d7ae2e4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_1.2.4745eee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_2.1.10cfe5e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_2.2.53f0d36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_3.1.8171e73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_3.2.5933ebe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_4.1.0cf48ff.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_4.2.38ed516.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_5.1.98b911f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_5.2.11bcbac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_baz.02f49cf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_dopolnitelnaya.f58c0b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_krnstruktsiya.e6db668.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ad-lcd_montaj.665b1d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/adlcd-dizain-1.1fccc66.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/adlcd-dizain-2.e862478.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/adlcd-dizain-3.5c7bcb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/alyuminievie_profili.1178e8f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ar-konstruktsiya-1.102785c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-230.a9def19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-230_1.1.576f589.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-230_1.2.b078cf4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-230_2.1.4df8c76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-230_2.2..065d162.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-230_3.1.361cfe0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-230_3.2.c46b352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-230_4.1.36291d5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-230_4.2.22c9ab1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320.36b1646.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro.8e4b4d0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_1.1.e2d409a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_1.2.1cf39b8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_2.1.c82d22f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_2.2.2805bd3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_3.1.4e52d97.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_3.2.2d383bc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_4.1.91c16a6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_4.2.065d162.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_5.1.c533e90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-320pro_5.2.f589bdb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm-otkritie-vnutr.723ed2c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm230-dizain-1.e003820.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm230-dizain-2.5d1e562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm230-dizain-3.7ff78dd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm320.caffec9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm320pro-dizain-1.5ab515c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/arm320pro-dizain-2.4bef075.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/avtomatika.bc18072.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/avtomatika_-_bazovaya_i_dopolnitelnaya_komplektatsiya16.2a6c330.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/balka.2225143.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_1.1.a9c3e6c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_1.2.132716b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_2.1.56c6451.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_2.2.efc7ef1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_3.1.7a0435d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_3.2.369392f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_4.1.9f59599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_4.2.830a95b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_4000_5000_6000.12b54fe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_5.1.ad173ea.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier-pro_5.2.9cdc33d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier3000pro-dizain-1.aec7ab4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier3000pro-dizain-2.afe3fd5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barrier3000pro-dizain-3.94f1524.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/barriers.6f3f91c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/bazovaya-komplektatsiya.24461b6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/bazovaya_komplektatsiya_korob_.a99c4c1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/bazovaya_komplektatsiya_polotno.d6981da.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/bejevii.984df4c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/belii_ral9003.47db69c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/bft.bd5864e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/bordovii.e4bc861.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier-bazovii-komplekt.6c334c3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier15-standartnie2.c626549.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier7-standartnie.b139600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_1.1.83b2cef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_1.2.705107e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_2.1.4582160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_2.2.d2bfa27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_3.1.c071c90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_3.2.07ab111.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_4.1.32a3a6d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_4.2.b84b38e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_5.1.b03b16e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_5.2.f7525ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chain-barrier_7_15.355f942.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chainbarrier-dizain-1.efaeea6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chainbarrier-dizain-2.9497b1d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chainbarrier-dizain-3.811cd0a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/de_option_small_pillow.3f4707d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/de_option_wheel_guides.0cffcf2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/deshevo.28774f3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhous_1.21b677f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhous_2.cb3e0dd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhous_3.20db700.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhous_4.4044e30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhous_5.7159c82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhous_base_1.3250c0a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhous_mounting_1.33b23bc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhous_option_1.a885e46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhousl_1.db2c48a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhousl_10.a27346e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhousl_2.06134ce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhousl_6.dd2ecde.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhousl_7.defffc2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhousl_8.3b8303f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhousl_9.2be61e1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpk000.9ec599b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpk020.07ba374.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpk050.fbafae6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpk060.2e4151d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpk070.91626da.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpk120.95d8edd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpr000.9dea646.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpr020.11691c0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpr050.555a9fb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpr060.6ac3a81.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpr070.c1026b2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dhpr120.b582f88.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhh_base_1.b3e0e6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhh_base_dcuh-1.d76dab4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhh_general_view_1.d64c8df.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhh_general_view_2.9b50eed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhh_general_view_3.f601ac4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhh_installation_embedded_type.8362f11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhh_news_1.20afb12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhh_pit_preparation.59cee7f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhh_structure.b5a7dcf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhhic_base_1.c0be486.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhhic_base_dcuh-1.d76dab4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhhic_general_view_2.d9673b0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhhic_installation_close.ab7dfe3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhhic_news_1.d806374.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dlhhic_structure.5f3eeb6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/doorhan.972c52c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dop_komplektatsiya__dhre.c5da77e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dop_komplektatsiya_gsm.b5cabc4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dop_komplektatsiya_knopka.a6dde79.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/doska.7604af4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/doska_pod_derevo.c70b092.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dpsn000.6077a7d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dpsn020.69cc448.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dpsn060.d30dac3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dpsn070.421c6d0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dpsn120.fae5a8b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dpsn150.3f7df17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ds_base_1.fe319b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ds_base_dcut-1.a550229.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ds_general_view_2.62d3f34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ds_installation_embedded.c6f67b8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ds_news_1.48949e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ds_structure.4e4c92d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshinf_base_1.e371ffd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshinf_general_view_1.002edf4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshinf_mounting_123.585444f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshinf_sh.1a03093.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshinf_structure.3bd06ac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshinp_general_view.04c2e0c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshinp_mounting_1.c6e8890.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshinp_sh.e5f801e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshinp_structure.5bbedac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrd_base_2.248d2c0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrd_general_view_1.9bfc422.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrd_general_view_2.fdeb982.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrd_mounting_1.8a23cd2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrd_sh.fe93583.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrd_structure.275721e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrt_base_2.248d2c0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrt_general_view_2.fdeb982.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrt_sh.f85db3b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dshrt_structure.d81b2d5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dveri_i_okna2.878fd3b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dvuhstvorchataya_dver.c8bde6a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dyubel_raspornii.269b114.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_1.2919d67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_2.06b8994.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_3.aa711d6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_4.aac63b6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_5.d8a4839.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_6.0927f0f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_7.c99c55f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_8.e5acff5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_9.613d3cb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_construction.42eefa8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_general_view.d14d764.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/feh-t_general_view_2.6f4de3a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ferma_vinosnaya_1.1.1dfc30f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ferma_vinosnaya_1.2.fd7f306.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ferma_vinosnaya_2.1.1227d5d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ferma_vinosnaya_2.2.b93395a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ferma_vinosnaya_3.1.547e2b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ferma_vinosnaya_3.2.0344c69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ferma_vinosnaya_4.1.1773598.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ferma_vinosnaya_4.2.2e5c381.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/filenka.4b9c0c9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ft_advantage_3.387f508.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ft_base_sliding.3fe02df.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ft_general_view.e7ad55e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ft_general_view_1.b41b943.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ft_general_view_2.4f49c8d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ft_standart_solutions_1.263eb4e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ft_standart_solutions_2.66fbc03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ft_structure_1.40d3bca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/garaji.a3cf208.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/garajnaya_dver_1.1.91f169a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/garajnaya_dver_1.2.8cb6f06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/garajnaya_dver_2.1.cc9aea2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/garajnaya_dver_2.2.4f81a90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/garajnaya_dver_3.1.1b6e25f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/garajnaya_dver_3.2.00ff9a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/garajnaya_dver_sklad.3bc11bd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/garajnie_sektsionnie_vorota_s_prujinami_rastyajeniya_standartnih_razmerov.040a17f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/gates.9d9ac5b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/gladkaya.d20fa25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/gorizontalnaya-polosa.f27512c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_proflista.ea1c566.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_proflista2_2.5c5e7df.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_proflista4.30156e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_proflista5.0074133.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_proflista6.4bef98c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_proflista7.7418a5c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_proflista9.8c91b6b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_proflista_2.d5e647b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_sendvich_paneli14.33bcc3c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_sendvich_paneli15.a0edbfe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_sendvich_paneli16.6e560a1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_sendvich_paneli17.0e4843b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_sendvich_paneli18.ad3dc58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_sendvich_paneli2.c24bd25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_sendvich_paneli20.b383871.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_sendvich_paneli27.c57b02c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kalitka_iz_sendvich_paneli2_2.97e36ce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_1.1.1d1e066.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_1.2.8cf9b77.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_2.1.292a3b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_2.2.9f43a8c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_3.1.aa41df6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_3.2.e0cd82b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_4.1.1dc3795.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_4.2.c23dcf9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_5.1.4721850.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_5.2.5543844.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_6.1.8933993.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_6.2.5ea0bca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_7.1.ccf9ca2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_7.2.fe139b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_8.1.d0c9dd1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_8.2.957a37e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/karkasnie_zdaniya-konstruktsiya.d2954fc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/komplekt-panelei.cfd37ec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/komplekt_proflista.b6843fe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/komplekt_rv_40.ba24505.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya.ba7e30c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_avt.a4ad276.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_kord.bb3d008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_pim.1bdd097.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_pim.1e0de79.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_revolution.5341fc4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_rsd01.23188d8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_rsd02.d1ba6b2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_ruchn.8460ef7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_stalnie_rulonnie_vorota_s_navalnim_privodom.8.0c07dc7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_stalnie_rulonnie_vorota_s_vnutrivalnim_privodom.10.84af5b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_ultra.c8ad710.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/konstruktsiya_zabor.84d3edc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/korichnevii.8ef7304.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/kovanie-vorota.c206956.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/krovelnaya_sendvich_panel-gladkaya.196ea13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/krovelnaya_sendvich_panel-nakatka.59da3e6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/krovelnaya_sendvich_panel-trapetsiya.a5c896c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/krovelnaya_sendvich_panel-volna.23b7dc7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/legkii-montaj.859f62d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/logo.a45b76f.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/manual_one_shot_container.890a593.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mdlm_base_1.95ed5a9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mdlm_base_2.4338923.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mdlm_general_view_2.4fad02b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mdlm_mounting_embedded.f86c616.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mdlm_pit_preparation.07e5971.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mdlm_structure.0a4df2a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/modernizirovannii_verhnii_kronshtein.455bd26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/modl_base_1.809656b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/modl_general_view_2.ab084f0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/modl_installation_embedded.0a330aa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/modl_pit_preparation.44afc13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/modl_structure.00ed16d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/montaj-rami-stolbov.c8e7173.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/montaj_nakladnoi.e9ebf71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/montaj_privoda_rv20-251.e534676.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/montajnie_plastini.027e319.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/most_otkidnoi_statsionarnii,_skolzyashii_1.1.10a511b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/most_otkidnoi_statsionarnii,_skolzyashii_1.2.bdc90cd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/most_otkidnoi_statsionarnii,_skolzyashii_2.1.bf0c576.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/most_otkidnoi_statsionarnii,_skolzyashii_2.2.efeb00e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/most_otkidnoi_statsionarnii,_skolzyashii_3.1.645b2c5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/most_otkidnoi_statsionarnii,_skolzyashii_3.2.afa369b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/most_otkidnoi_statsionarnii,_skolzyashii_4.1.dc381ea.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/most_otkidnoi_statsionarnii,_skolzyashii_4.2.317b391.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mt_1.bdda673.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mt_6.f081c01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mt_7_poverhnost.3ab3c10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/mt_8.6a515ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/nakladnoi_montaj_stalnie_rulonnie_vorota_s_barabannim_prujinno-inertsionnim_mehanizmom.19.826f4d6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/nakladnoi_montaj_stalnie_rulonnie_vorota_s_navalnim_privodom.21.656c753.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/nakladnoi_montaj_ultra.8b0b12d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/nakladnoi_rsd02_isd.8e1e18f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/nalichnik_ultra_8017.070ad5f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/nizk._baraban_szadi.49c49c0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/nizkii.04eebc9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/nizkii_prujini_rastyajeniya.791aea4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/novaya_upakovka_1.6f56543.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/novinki-1-roliki.0917e53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/novinki-3-zzaglushka-v-karniz.3128dee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/novinki1_rol.487b678.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/novinki_-_nijnii_lovitel.a38af74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshaya_konstruktsiya_rv.84f8d33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-ad-lcd.8f9fb01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-arm-230.b763174.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-arm-320.c17f4af.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-barrier-4000.911cddc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-chain-barrier-7.6904c35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-se-1000-pro.b236427.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-se-1200.e743166.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-shaft-120.5311368.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-shaft-20.eadc155.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-shaft-30.1311fc3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-shaft-50-pro.58590e6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-shaft-50.b7a9b22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-shaft-60.1311fc3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-sliding-1300-pro.31045fd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-sliding-2100-pro.31045fd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-sliding-300.fb1cb08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-sliding-800.fb1cb08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-swing-2500.fe18a4d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid-swing-5000-pro.0c3545d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii-vid.5b21f6d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii_vid_rolstavni_iz_alyuminievih_profilei.e43e83c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii_vid_rolstavni_iz_stalnih_profilei.14f25a4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii_vid_rulonnie_vorota_pim.63d85ce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii_vid_se_800_pro.b236427.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii_vid_stalnie_rulonnie_vorota_s_navalnim_privodom..3de99e2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/obshii_vid_stalnie_rulonnie_vorota_s_vnutrivalnim_privodom..32d096d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/odnostvorchataya_dver.c08c42c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/order_back.4291f16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/paneli_2.7ec344f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/petli_ultra_8017.ce3ec34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/platforma_uravnitelnaya_konsolnogo_tipa_s_povorotnoi_apparelyu_1.1.c537d37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/platforma_uravnitelnaya_konsolnogo_tipa_s_povorotnoi_apparelyu_1.2.36aa3fc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/platforma_uravnitelnaya_konsolnogo_tipa_s_povorotnoi_apparelyu_2.1.5bfec15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/platforma_uravnitelnaya_konsolnogo_tipa_s_povorotnoi_apparelyu_2.2.f6a4c23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/platforma_uravnitelnaya_konsolnogo_tipa_s_povorotnoi_apparelyu_3.1.550ba2c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/platforma_uravnitelnaya_konsolnogo_tipa_s_povorotnoi_apparelyu_3.2.371cf73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/platforma_uravnitelnaya_konsolnogo_tipa_s_povorotnoi_apparelyu_4.1.1347f76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/platforma_uravnitelnaya_konsolnogo_tipa_s_povorotnoi_apparelyu_4.2.d806374.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/plitka-1.4b41620.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/pod_derevo.7917bd9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/podgotovka-obekta.d0355c7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/podgotovka_garajnoi_dveri.4702f9f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/podgotovka_montajnogo_obekta_rsd01_test.10b8775.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/podgotovka_obekta.ca8ae3c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/podgotovka_proema_raspashnie.302c194.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/podgotovka_proema_sdvijnie-1.b382f45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/polotno-iz-sendvich-panelei.487573f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/preimushestva-3-rolikovaya-opora.0bd5df2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium-classic-1.e6e21b2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium-classic.170563b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium-country_b-3_darkwalnut_goldenoak.338da85.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium-country_b-4_darkwalnut_goldenoak.fb246e5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium-hi-tech-1.e0bfb05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium-hi-tech_v-4_wenge.9723a2e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium_classic_b-1_tsvet_zolotoi_dub.518b89c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium_classic_b-2_tsvet_zolotoi_dub.eb92bb7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium_classic_b-3_tsvet_zolotoi_dub.76435d7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium_country_b-1_tsvet_temnii_oreh.02e6eb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium_country_b-2_tsvet_temnii_oreh.7ac7b89.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/premium_hi-tech_b3.34b7c3f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/pritoloka_150.1122329.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/privod_s_rastsepitelem.78c0012.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/privod_sliding_1300_pro.0a5e3bb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/privodi_bez_avariinogo.a7eebd4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/privodi_s_reduktorom.2d62613.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/proem_kalitka.2bf059d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/proem_zabor.6a26c8a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rh41n.d6b76f1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rh45n_pn.452039c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rh58n_pn.0d160ce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rh77m.f6d3669.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhe45.b79cb17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhe45m.d185e61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhe56m_gm.81f4bc9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhe58m.e0ef8c5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhe78.7f658a8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhe84m_gm.e056094.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhs22.768284f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhs52.912dfa6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhs75.08a694a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhs75_new.39da425.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/profil_rhs75p.1f423b0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/proflist.7281bf2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/protivopojarnie-proemi.afb2416.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/protivopojarnie_vorota_1.1.7ec5b18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/protivopojarnie_vorota_1.2.cfe7cce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/protivopojarnie_vorota_2.1.d7c3de0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/protivopojarnie_vorota_2.2.810de72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/protivopojarnie_vorota_3.1.30d2fb0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/protivopojarnie_vorota_3.2_2.b55f7e5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/psh-1-tablitsa-razmerov.3f453ed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/psh-dk-3-pult-radioupravleniya.46f8dbe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/psh-zp-1-na-proizvodstve.df2a60e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ral-karti.8a3bd12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rama_iz_alyuminievih_profilei_snijaet_ves_konstruktsii.fe9aae6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/raspashnie-vorota-vneshnii-vid.81d4948.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/raspashnie-vorta-konstruktsiya.92f821c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/raspashnie-vorta-navesnie-stolbi.461bf8d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/raspashnie-vorta-navesnie-stolbi_2.47d350d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/raspashnie-vorta-razmernaya-setka.264c9fd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/raspashnie-vorta-razmeshenie-privoda.65bce69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/raspashnie-vorta-stolbi-betoniruemie_2.9f529f1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/raspashnie-vorta-varianti-otkritiya-vorot.9a0657e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/razmeri_proema_dlya_vorot_serii_rsd01sc.d9503b0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/razmernaya_setka__kalitki.87ad51b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/razmernaya_setka_zabor.5492551.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/remont-vorot.547bb62.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_1.1.24db55f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_1.2.aac6338.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_1.2_2.cdc51d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_1_2.1.89f44b0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_2.1.087c2b1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_2.2.42cc6b5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_2.2_2.f1ff871.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_2_2.1.c859fc8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_3.1.8f0cbbf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_3.2.3d253d2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_3.2_2.80b6f4e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_3_2.1.58603aa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_4.1.45591c1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_4.2.b4a2e94.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rolstavni_i_rolvorota_4.2_3.f888be8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-1-podgotovka-proema.f4bf6f4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-1-tablitsa-razmerov.c59d476.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-bk-4-stvorki-vorot.5c189d7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-dk-2-priemnik-vneshnii.4a03bb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-konstruktsiya-1.d4168b2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-konstruktsiya-2-panel.d63bf1f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-novinki-1-petlya.d88aa57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-ov-1.6b2b2cb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-ov-2-rigelnaya-zadvijka.0a82dd5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-preimushestva-2.2.9fce34f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-preimushestva-3.3.898bdcd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-skr-10-variant-otkr-stvorok.3746aec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-skr-6-vorota-s-kalitkoi.6bbd8a6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-skr-7-variant-otkr-stvorok.11bf6b0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-skr-8-variant-otkr-stvorok.091a293.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-skr-9-variant-otkr-stvorok.6a16c78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-skr-bez-kalitki.d15d730.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-sm-1-vstroennii.dd10635.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rpv-zp-na-proizvodstve.3965a5d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs-dizain-bez.79a6cd8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs-dizain-s-rastsepitelem.3b7a342.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs-dizain-s-reduktorom.93dc2ec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs-osnovnaya.39ea850.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_1.1.88579bc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_1.2.fee34cb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_2.1.5d97440.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_2.2.81781d8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_3.1.af96b6d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_3.2.fe6b6e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_4.1.476bb69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_4.2.931185b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_5.1.a27c612.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_5.2.71f725f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_6.1.cfc9d12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_6.2.e26fd6a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_7.1.b86e16a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rs_7.2.217479a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rsd01-zp-3.c40134e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rsd02_podgotovka_proema.9ee266a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rsd02_vnutrennyaya_storona.0aeea92.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ruchka_delta.a7a76f0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_1.1.d41cca3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_1.2.5809721.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_1.2_2.570b1ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_2.1.c2ef004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_2.2.b5f4096.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_2.2_2.290ef82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_2.2_3.30a946e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_3.1.be12c71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_3.2.634131f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_4.1.45591c1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_iz_komb_profilya.544277b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_iz_perf_profilya.a8909e3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_iz_sploshnogo_profilya.601f57c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rulonnie_vorota_s_vnutrivalnim_privodom_nakladnoi_montaj.31e7abe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rv.cf492c6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rv_1.1.b8cd409.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rv_1.2.72242e2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rv_2.2.cb91711.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rv_3.1.3b8c0f5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rv_3.2.de04b94.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rv_4.1.9e53810.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/rv_4.2.b3b1e6d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ryterna.38030ee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sdvijnie-vorota-vid-iz-nutri.046ea7b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sdvijnie-vorota-vid-snaruji.d152034.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sdvijnie.5f039ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_1.1.c1161e3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_1.2.7d73323.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_2.1.e9c97db.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_2.2.11a0f27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_3.1.c68dd4d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_3.2.f10ac00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_4.1.61c1036.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_4.2.e22a79c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_5.1.8206279.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-1200_5.2.52a5515.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_1.1.43c39ba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_1.2.7bb57b8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_2.1.bd7d3b6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_2.2.2bc2e81.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_3.1.8840e9a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_3.2.6b82dd8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_4.1.84b4752.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_4.2.20ef03c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_5.1.a8dcaa9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se-800-1000pro_5.2.6de2210.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se750-dizain-1.a3a3170.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se750-dizain-2.60a768e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/se750-dizain-3.9542ac9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sectional-1200.3bc7b60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sectional-800_1000pro.abfde07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sectional-800pro.f9bb937.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-1-podgotovka-proema.7e38065.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-1-tablitsa-razmerov.93c2c1f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-bk-8-polotno.fdd6ecc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-dk-3-priemnik-vneshnii.4a03bb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-konstruktsiya-1.4d89ca0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-konstruktsiya-2-panel.2c5655f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-novinki-1-kalitka.79442dc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-ov-1.f2c0851.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-ov-2.1dfe94d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-preimushestva-9-varianti.69a0498.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-skr-1-vert-podem-val-snizu.3028a79.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-skr-3-vis-nakl-podem-val-snizu.c5c3d4b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-skr-4-visokii-podem-baraban-snizu.2746367.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-skr-5-visokii-podem.b881fee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-skr-6-naklonnii-visokii-podem.a6084f7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-skr-7-standartnii-naklonnii-podem.fe9bfaa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-skr-8-standartnii-podyom.1146d43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-skr-9-razmeri.adfdb5e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-sm-1-nakladnoi.0e95c0b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sekpv-zp-2-na-parkovke.8ad79d1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie.63d3414.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie.f05eb84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_1.1.af5bcab.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_1.2.f3da3ba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_1.3.32a4ad8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_2.1.8d6266f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_2.2.32ea846.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_2.3.fbded07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_2.6.fec95a5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_2_2.1.3857689.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_3.1.ca0c53a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_3.2.1de2431.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_4.1.b29a9b8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_4.2.e524f9a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_4.3.ea22689.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd01.cfd1f28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd02.5b5fa6e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd0210.ff776f5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd0212.229a473.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd0214.f8a5cdc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd0218.eb7d9fb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd0222.646341d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd0223.f42a603.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd0224.b976199.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd0225.21d1231.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd_01.192debc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sektsionnie_vorota_rsd_02.dc6c3c3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sendvich-panel_stenovaya.cedab5c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/serebristii.ce85c34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/serii.eeced3c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/setka_razmerov.aac1284.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/setka_razmerov__alyum_prof.186fa9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/setka_razmerov__stalnie_prof.5b36b78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/setka_razmerov_sdvijnih_vorot.1ed81a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-120.6fe900a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-120_1.1.02f5306.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-120_1.2.9dc5a23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-120_2.1.202ea57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-120_2.2.68e7e3f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-120_3.1.1f20b1a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-120_4.1.a40255e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-120_5.1.38e5287.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-120_5.2.d3dd651.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20.f35a86d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_1.1.d781e4d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_1.2.c9e7564.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_2.1.3fb5247.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_2.2..86f3b10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_3.1.1e99c64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_3.2.0c46902.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_4.1.dc8ef11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_4.2.8c71f95.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_5.1.49c6381.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-20_5.2.c4f64ae.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30-60.1e000e3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_1.1.88105df.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_1.2.0a2efee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_2.1.700c5d2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_2.2.a2b9c16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_3.1.722fd71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_3.2.a9993a8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_4.1.2440b5c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_4.2.745a4b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_5.1.6d9efc6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_5.2.1156656.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-30_60.3e88e21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50.08c7324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_1.1.c812378.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_1.2.e592e93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_2.1.d14e004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_2.2.0a66aab.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_3.1.83ee727.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_3.2.979d7e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_4.1.a711dcf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_4.2.8c71f95.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_5.1.f04fe15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50_5.2.0a2efee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro.2d2085a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_1.1.8ce437e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_1.2.e592e93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_2.1.c7754e3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_2.2.0a66aab.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_3.1.4a1009a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_3.2.979d7e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_4.1.1f4c3ed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_4.2.01e9e0b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_5.1.e9f0dc7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-50pro_5.2.0a2efee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_1.1.2701dd1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_1.2.1156656.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_2.1.c66c762.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_2.2.a2b9c16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_3.1.96893cc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_3.2.0ccef37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_4.1.54c01b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_4.2.f35ab02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_5.1.9606d04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft-60_5.2.10e81cf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft120-dizain-1.1da86fb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft120-dizain-2.b26db3f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft120-dizain-3.6f61ceb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft20-dizain-1.fbcf705.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft20-dizain-2.b0ddec3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft20-dizain-3.9ab26b2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft30ip65-dizain-1.a0e395b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft30ip65-dizain-2.749c7c9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft30ip65-dizain-3.0540ccc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft50-dizain-1.635eb5d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft50-dizain-2.406914c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft50-dizain-3.ea88570.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft50pro-dizain-1.93763fc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shaft50pro-dizain-2.f783104.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shema-betonirovaniya-shlagbauma-tsepnogo-montaj.563ede1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shirina_polotna_8017.3fec802.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shirokaya_tsentralnaya_polosa.1963f9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shit-vorot.7499372.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shlagbaum.afa0c4b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shp-1-podgotovka-proema.7e68848.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shp-bk-1-polotno.9f3b689.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shp-konstruktsiya-1.c28d58d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shp-konstruktsiya-2.dff7f67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shp-ov-1.ec0b057.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shp-preimushestva-5-polotno-skrito.14e8999.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shp-skr-1-vstroennii-montaj.f307927.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shp-skr-2-nakladnoi-montaj.c915eaa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/shp-sm-2-nakladnoi.5c1dc2f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sigma-profil.b302f22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sinii_ral5005.b64e2b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sistema-rolikov-138balka-obshii-vid.cfac4d8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sistema-rolikov-71balka-obshii-vid.fdfbe55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sistema-rolikov-95balka-obshii-vid.ce6fc3a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/skladi.ced0b2a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300_2100pro.95a1087.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_1.1.e4fc524.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_1.2.3f1b8b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_2.1.80bd41b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_2.2.7cc778c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_3.1.c329496.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_3.2.26ea342.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_4.1.40b556a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_4.2.8bb731f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_5.1.f718aeb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-1300pro-2100pro_5.2.b4c8f3b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_1.1.42b725d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_1.2.2982bc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_2.1.6cfc222.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_2.2.8a61fcc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_3.1.cb6f624.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_3.2.2987791.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_4.1.e7c099f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_4.2.32cfb18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_5.1.21397b4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300-800_5.2.047f977.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding-300_800.2d3c50e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding1300pro-dizain-1.c357964.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding1300pro-dizain-2.85f3851.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding1300pro-dizain-3.866624c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding1350pro.60fbb57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding300-dizain-1.0793a7e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding300-dizain-2.edd2ec3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding300-dizain-3.ce5f0dc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sliding800.2615b18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-1-betonirovka-sposobi-montaja.96068ba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-1-eco-obshii_vid.1ac554d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-1-montaj-sistem-ograjdenii-preimushestva.4ccb4a0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-10-sdvijka-betoniruemaya-rama-sposobi-montaja.5195dc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-11-raspashka--ruchka-skoba.8ab738a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-2-kalitka-naruju-sleva-skr.a3363a3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-2-kompleksnoe_reshenie-preimushestva.1d73b19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-2-special-obshii_vid.91b50cf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-2-vorota-raspashnie-tablitsa-razmerov.1ab97b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-3-kalitka-tablitsa-razmerov.a98e98f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-3-otsinkovka-preimushestva.3c6005e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-3-raspashka-otkritie-naruju-skr.1f7b84a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-3-sdvijka-otkritie-vlevo-skr.4684f48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-3-strong-obshii_vid.4ad77ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-4-poroshkovaya-pokraska-preimushestva.313bb58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-4-sdvijkatablitsa-razmerov.2a68ac8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-4-vid-kalitka-obshii-vid.e3d5af4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-5-sektsiya-2550h2030-mm.1e10af8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-5-skladskie-zapasi-preimushestva.fbd73ec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-5-vid-raspashka-obshii-vid.a02ac79.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-6-kalitka-betonirovanie-stolbov-sposobi-montaja.757f024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-6-spiralnie-bareri-bezopasnosti.9268ec8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-6-vid-sdvijka-obshii-vid.9fe7d34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-7-obshii-vid.ee89e5f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-8-kalitka-ahf25.4b89af5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-8-raspashka-betonirovanie-stolbov-sposobi-montaja.415cbed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-dk-privod_sliding_1300_pro.3d60fd7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-kalitka-bk-shit.7fecef5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-kompleksnoe_reshenie1-preimushestva.f473d61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-kompleksnoe_reshenie2-preimushestva.d57ad51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-konstruktsiya-kalitka.eb7836a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-konstruktsiya-raspashka.849e5a4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-konstruktsiya-zabornoi-sektsii.55d6704.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-montaj_sistem_ograjdenii5-preimushestva.366a65e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-novinki-stolb_1_mm.bf1eebc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-otsinkovka1-preimushestva.3a838d7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-po-2-ograjdeniya.f211d15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-po-3-kalitka.5dcfa57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-po-4-raspashka.8a1efe1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-podvijnie-poroshkovaya-pokraska-preimushestva.ecb0686.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-poroshkovaya_pokraska2-preimushestva.600b9d3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-poroshkovaya_pokraska3-preimushestva.a49ccc6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-raspashka-bk-shit.347ff55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-sdvijka-bk-shit.c3620fa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-sdvijka-konstruktsiya.3386bb7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-sdvijka-po-razmeri.10f4483.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-skladskie_zapasi4-preimushestva.75a09f3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-tablitsa-razmerov-1-obshaya.0c4cb2f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sposobi-montaja.56032fb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-1-podgotovka-proema.0a15ef6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-1-tablitsa-razmerov1-2.e205b58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-bk-3-polotno-vorot.2345ba0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-dk-4-priemnik-vneshnii.4a03bb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-konstruktsiya-1.8848072.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-novinki-1-privod.2531ea3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-ov-1-dvustvorchatie-vorota.65a5719.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-ov-2-odnostvorchatie-vorota.94c7382.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-preimushestva-2.2.5e870b6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-preimushestva-5-varianti.5fafff0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-skr-14-odnostvorchatie.db69289.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-skr-15-dvustvorchatie.ba514a5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-sm-1-nakladnoi.03f7b26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-standartnie_konstruktivnie_resheniya-2.00a5b3c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/spv-zp-1-na-parkovke.d500c02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stalnie_dveri_1.1.910427c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stalnie_dveri_1.2_2.22f51d8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stalnie_dveri_2_4.1.ace2284.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stalnie_dveri_2_4.2.106f920.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stalnie_dveri_3_2.1.68c4117.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stalnie_dveri_3_2.2.693a67e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/standartnie_konstruktivnie_resheniya_02.0559ecd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/standartnii.37967e5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/standartnii_naklonnii.0b014ed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stenovaya_sendvich_panel-gladkaya.81f78e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stenovaya_sendvich_panel-nakatka.85d8768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stenovaya_sendvich_panel-trapetsiya.5d5578f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stenovaya_sendvich_panel-volna.b59f362.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/strommashina__3v4-1-8-17.2582c93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stukko.1c08b34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sving-otkritie-vnutr.2662729.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500.662c068.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_1.1.2b2a344.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_1.2.3595ff9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_2.1.aca7d83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_2.2.bf0df03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_3.1.41f2456.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_3.2.fbad769.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_4.1.b04086a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_4.2.2d76bb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_5.1.5a46d17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500base_5.2.3a40122.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-2500montaj.44935b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-250x2.4a83526.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000_5000.af46a62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_1.1.776623c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_1.2.0629dd8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_2.1.f016dd5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_2.2.5486d05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_3.1.a343b07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_3.2.10e2021.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_4.1.e3f8d2d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_4.2.68b9ed3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_5.1.15ec418.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-3000pro-5000pro_5.2.84dcf49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-lip_3_segments.a9a9b4f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-lip_400_mm.d91fc14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-lip_500_mm.213490c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-lip_tappered.c1a2d45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing-lip_without_bending.bc84002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing2500.b676bde.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing2500base-dizain-1.d8bdefa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing2500base-dizain-2.b7d6381.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing2500base-dizain-3.8771410.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing3000pro-dizain-1.993b4c4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing3000pro-dizain-2.552e926.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/swing3000pro-dizain-3.4ea402a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tablitsa-vse.a2aaff0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tablitsa_razmerov_pim.ed6790f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tablitsa_stalnie_rulonnie_vorota_s_navalnim_privodom.5.7ce4661.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tablitsa_stalnie_rulonnie_vorota_s_vnutrivalnim_privodom.5.416cbfa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/teh.haraktiristiki_si20-25.9f99081.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/teh_harakteristiki_si40-180.5990cff.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tele-lip_1000_mm.fd7a67a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tele-lip_3_segments.471c614.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tele-lip_500_mm.501788b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tele-lip_5_segments.1fee91c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tele-lip_tappered.24cc0d0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tele-lip_without_bending.3fde258.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/temnii-oreh.a3d8480.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/testimonial1.2d33252.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/testimonial2.40010be.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_1.1.bd5ffd6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_1.2.320fe88.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_2.1.7c9596c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_2.2.ef8df44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_3.1.aaade30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_3.2.2bb8e3e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_4.1.401953d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_4.2.b9ac72d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_5.1.3dc3700.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_5.2.b52fcbe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_6.1.a9963b4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_6.2.86f12b1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmk_g_glavnoe_izobrajenie.b72730b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmu-1-podgotovka-stroitelnogo-obekta.fd2ee39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmu-bk-10-komplekt-teplozashita-vvt.ba27135.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmu-obshie_vidi-1-vvt.3323080.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmu_karkas.3a902c2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmu_komplekt_vorotnih_sistem.29dfbfe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmu_konstruktsiya.d0c3a88.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmu_standartnie_resheniya_gr.8602d78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tmu_standartnie_resheniya_vvt.95b6043.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie-sdvijnie-sendvich-1-skr.bf4c711.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie-sdvijnie-sendvich-2-skr.bc6cfb0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie-sdvijnie-sendvich-3-obshii-vid.90f89f3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie-sdvijnie-sendvich-3-skr.4547d64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie-sdvijnie-sendvich-4--obshii-vid.7460c43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie-sdvijnie-vorota-s-sendvich-panelyu-1-konstruktsiya.cd515d7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_revolution_2.20db4dc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_revolution_vnutrennii_vid2_2.c767e34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_1.1.7b4df30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_1_2.1.0182de9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_1_3.1.194d6e3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_1_4.1.01ff662.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_1_5.1.8c5adc2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_1_novinki.1.103be30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_1_novinki.2.jpg.2ffadad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_2.1.066e9db.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_2_2.1.1d77a00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_2_3.1.52c7679.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_2_novinki.1.jpg.d7726d1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_2_novinki.2.jpg.2fe8164.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_2.1.fecefbb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_2.2.e9bcd10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_3.1.f23286c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_3.2.b749c1d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_4.1.b89da3c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_5.1.89b1d97.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_5.2.c27b1d5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_6.1.b50d503.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_6.2.5627211.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_7.1.7f8433c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_novinki.1.jpg.027d87f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_3_novinki.2.jpg.2859bda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_4.1.c241ffd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_4_novinki.1.jpg.f4d2f9a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_4_novinki.2.jpg.3d93258.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_new_2_10.55bc8ff.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_new_2_11.53b0462.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_new_2_2.24c3ef2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_new_2_3.3f050f1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_new_2_4.0f99cc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_new_2_5.b6f59af.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_new_2_8.596abde.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ulichnie_vorota_new_2_9.1c263f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/ultra_02.9dbb42f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/valnie-shaft-20.38e1a3a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/valnie-shaft-30,60.cd0ba49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/valnie-shaft-50.ddf0044.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/varian6.52564f9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/varianti_otkritiya.5f6e576.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/venge.957c854.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/vertikalnii.321df66.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/visokii.7fb90e9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/visokii_naklonnii.5aaf19b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/vneshnyaya_storona_garajnoi_dveri.aa56cdc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/vneshnyaya_storona_kalitki_v_alyuminievoi_rame_s_zapolneniem_sendvich-panelyami_2.56c92c7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/vnutrennii_vid_zdaniya_2.58a0ef8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/vnutrennyaya_storona_garajnoi_dveri.94538ab.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/volna.4e6d596.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/vozmojnost_ustanovki_kalitki.fe4d950.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/vreznoi_montaj.25fb56c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/work.582c82f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/work2.507c7f8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/work3.ff9c4a0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zamer_dverey_samostoyatelnop.2e0a3ac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zamok_rsd.0ac31b9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zelenii_ral6005.68356df.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zolotoi_dub.b50a41c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-avtomaticheskie-dveri1.17dd05e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-barrier-pro1.65a416e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-chain-barrier.4e0f43d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-dlya_rolvorot_2.4e86de5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-raspashnie.b0cba1e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-raspashnie1.c2329ea.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-rolleti1.0728c70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-sdvijnie2.bcee026.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-sektsionnie-promishlennie.4baaf58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya-sektsionnie-promishlennie1.cdc0cf0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya.67890f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya10.5f710a7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya14.e88e46d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya15.388e795.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya16.af56ae9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya17.d5945f3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/zona-primeneniya8.1b5c4cd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.9067a748e404d57edc39.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.9067a748e404d57edc39.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.289b2b1c5705e06b54f3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.289b2b1c5705e06b54f3.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/vendor.c36ad80918b8112357c7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/vendor.c36ad80918b8112357c7.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/1._peredelannii_setki.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/10._vorota_raspashnie__tseh.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/12._sdvijka_tseh.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/8._tseh_kalitka.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/ad-lcd.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/ahdw45.03.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/arm-230.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/arm-320pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/arm_230.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/arm_320pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/barrier-pro-4000_5000_6000.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/barrier_pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/barrier_rpo.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/barriers.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/chain-barrier.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/chain-barrier_7_15.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/chertej_na_rulonnie_vorota_s_barabannim_mehanizmom.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/chertej_na_rulonnie_vorota_s_barabannim_mehanizmom.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/chertej_se800pro.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/chertej_se800pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dhous_30_(i).dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dhous_30_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dhousl_30_(i).dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dhr-w.01.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dhr-w.01.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dlhhc.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dlhhe.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dshinf.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dshrd.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dshrt.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/dss.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/elektroprivod_serii_35.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/feh_30_(i)_pod_dlhh_i_modl.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/feh_30_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/ferma_vinosnaya.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/ft.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/germetizator_naduvnoi.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/germetizator_s_jestkoi_ramoi.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/germetizator_so_skladnoi_ramoi.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya_po_ekspluatatsii_neo_ultra_m-lain.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya_po_ekspluatatsii_raspashnih_vorot.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya_po_montaju.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya_po_montaju_protivopojarnoi_shtori.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya_po_montaju_rolstaven.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya_po_montaju_rolstaven_rolvorot.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya_po_montaju_rulonnih_vorot_s_navalnim_privodom.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya_protivopojarnie_raspashnie_vorota_novaya_konstruktsiya.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/instruktsiya_sdvijnie_so.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/insturktsiya_po_sborke_sdvijnih_vorot_revolution.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/kalitka-montaj.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/kalitka-proflist.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/katalog_komplektatsii_dlya_rolletnih_sistem.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/katalog_zapchastei_fb.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/mdlme.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/modle.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/montaj_otdelnostoyashei_kalitki_standartnih_razmerov.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/most_otkidnoi_statsionarnii,_skolzyashii.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/nizkii_podem_raschetnie.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/nizkii_podem_raschetnie.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/pasport-garantiya-instruktsiya_ultra6.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/pasport_chain-barrier.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/pasport_kalitka_otdelno_stoyashaya_new.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/pasport_na_stalnie_rulonnie_vorota.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/pasport_protivopojarnaya_shtora.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/pasport_rolstavni.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/pasport_sdvijnie_vorota.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/pasport_sektsionnie_vorota_rsd01.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/peredelannii_setki.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/platforma_uravnitelnaya_mehanicheskaya.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/platforma_uravnitelnaya_mehanicheskaya_minidok.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/platforma_uravnitelnaya_s_povorotnoi_apparelyu.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/platforma_uravnitelnaya_s_povorotnoi_apparelyu_konsolnogo_tipa.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/platforma_uravnitelnaya_s_vidvijnoi_apparelyu.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/privod_dlya_avtomaticheskih_dverei_ad-lcd2017.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/privodi_dlya_vorot.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/protivopojarnaya_shtora._vreznoi_montaj_s_krepleniem_v_beton..dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/protivopojarnaya_shtora._vreznoi_montaj_s_krepleniem_v_beton..pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/raspashnie_-_obshii_vid.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/raspashnie_-_obshii_vid.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/raspashnie_ppv_s_kalitkoi_i_bez_kalitki._obshie_vidi_i_razrezi..dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/raspashnie_ppv_s_kalitkoi_i_bez_kalitki._obshie_vidi_i_razrezi..pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/raspashnie_protivopojarnie_vorota_dhrfp_(ei90).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/razrez_poperechnii_1-1_18m.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/rolstavni_iz_penozapolnennogo_profilya_rh39n.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/rolstavni_iz_penozapolnennogo_profilya_rh39n.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/rolstavni_iz_stalnogo_profilya_rhs22.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/rolstavni_iz_stalnogo_profilya_rhs22.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/rsd01_2016.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/rsd02_2016.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sanitarno-epidemiologicheskoe_zaklyuchenie_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sborka_i_montaj_sdvijnie_vorot_standartnih_razmerov.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sborka_i_montaj_sdvijnih_vorot.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijka_tseh.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijnie_-_arochnie_i_s_pikami.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijnie_-_arochnie_i_s_pikami.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijnie_-_obshii_vid_vorot.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijnie_-_obshii_vid_vorot.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijnie_dvuhstvorchatie_protivopojarnie_vorota.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijnie_dvuhstvorchatie_protivopojarnie_vorota.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijnie_protivopojarnie_vorota_dhsfp_(ei_60._ei90).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijnie_revolution_-_obshii_vid_vorot.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sdvijnie_revolution_-_obshii_vid_vorot.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/se-750-750fast-1000-1200.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/se-800pro-1000pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/se_750-1200.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sectional-1200.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sectional-800_1000pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sectional_800-1000pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sectionalshaft.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sekpv-instruktsii-montaj.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sektsionnie_protivopojarnie_vorota._vertikalnii_podem_val_snizu.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sektsionnie_protivopojarnie_vorota._vertikalnii_podem_val_snizu.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sektsionnie_protivopojarnie_vorota_isd_fp_(ei60).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sertifikat_paneli_40mm.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sertifikat_sootvetstviya.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sertifikat_sootvetstviya_(peregruzochnoe_oborudovanie).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sertifikat_sootvetstviya__151299201.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sertifikat_sootvetstviya_na_komlektatsiyu_dlya_vorot_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sertifikat_sootvetstviya_na_vorota_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft-120.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft-20.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft-30-60.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft-30_60.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft-50.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft-50pro-85pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft-50pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft_120.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft_20.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft_30.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft_50.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft_50pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shaft_60.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shit_iz_sendvich-panelei_v_rame.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/shit_iz_sendvich-panelei_v_rame.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sl-1300pro-2100pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sl-300-800.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sliding-1300_2100pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sliding-300_800.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sliding1300-2100pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sliding_300-800.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/slidings.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sp_70.13330.2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/spv-1-instruktsii-montaj.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/spv-gv.16.013_vorota_rsd01_(s_prujinami_rastyajeniya-sjatiya)v2.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/spv-gv.16.013_vorota_rsd01_(s_prujinami_rastyajeniya-sjatiya)v2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sw-2500.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/sw-3000pro-5000pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/swing-2500.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/swing-5000.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/swing_3000-5000pro.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/swingsarms.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/tambur_peregruzochnii_legkoi_serii_kosoi.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/tambur_peregruzochnii_standartnoi_serii_kosoi.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/tehnicheskaya_instruktsiya_privod_si20si25.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/tmk_obrazets_instruktsii_po_montaju.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/tmu_sertifikat_ognestoikost_tentovoi_tkani.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/tp1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/tseh_kalitka.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/vorota_raspashnie__tseh.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/vorota_rulonnie_s_navalnim_privodom.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/vorota_rulonnie_s_navalnim_privodom_rhs117.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/vorota_rulonnie_s_vnutrivalnim_privodom_iz_profilya_rhs117.dwg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/pdf/vorota_rulonnie_s_vnutrivalnim_privodom_iz_profilya_rhs11708.pdf" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1858" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/index.html</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/css/app.f0e26def7c14d434f4e06675228baf27.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/FundamentalBrigade.8d77763.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/avtomatika.bc18072.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/kovanie-vorota.c206956.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/logo.a45b76f.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/protivopojarnie-proemi.afb2416.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/remont-vorot.547bb62.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.9067a748e404d57edc39.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.289b2b1c5705e06b54f3.js.map</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/css/app.c90c7c05a3d8d9ac22244de12d6f866f.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/css/app.c90c7c05a3d8d9ac22244de12d6f866f.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/FundamentalBrigade.1a73d86.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/Vid-avtomatiki-na-raspashux-vorotax.d9c22bd.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/Vidy-avtomatiki-na-raspashnyx-vorotax.73f271c.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/avtomatika.b5b2e76.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/kovanie-vorota.a4a14ff.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/logo.16bf1d7.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/protivopojarnie-proemi.39bf58f.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/images/remont-vorot.29cbe27.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.9a0747dc11103e07aa5a.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.9a0747dc11103e07aa5a.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.0bfd1808fb9d1620c20d.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.0bfd1808fb9d1620c20d.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/vendor.b99809e5f05577915537.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/vendor.b99809e5f05577915537.js.map</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+        <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.41cdf1da05060c1ea8d4.js.map</PATH>
+        <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.adb9bc3dcc4641588eaa.js.map</PATH>
+        <PATH vcs="Git" revision="">$PROJECT_DIR$/static/css/app.a17b3fd9901448906de2c05fa1194ba2.css</PATH>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa939141-c6d9-44c1-9db8-ceab6bfe4a88" name="Default" comment="" />
+      <created>1505467071857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505467071857</updated>
+      <workItem from="1505467073173" duration="2107000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;index.html&#10;#&#9;static/css/app.a17b3fd9901448906de2c05fa1194ba2.css&#10;#&#9;static/css/app.c90c7c05a3d8d9ac22244de12d6f866f.css&#10;#&#9;static/css/app.f0e26def7c14d434f4e06675228baf27.css&#10;#&#9;static/js/app.41cdf1da05060c1ea8d4.js.map&#10;#&#9;static/js/app.9067a748e404d57edc39.js.map&#10;#&#9;static/js/app.9a0747dc11103e07aa5a.js.map&#10;#&#9;static/js/manifest.0bfd1808fb9d1620c20d.js.map&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js.map&#10;#&#9;static/js/manifest.adb9bc3dcc4641588eaa.js.map">
+      <created>1505467323513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505467323513</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;index.html&#10;#&#9;static/css/app.a17b3fd9901448906de2c05fa1194ba2.css&#10;#&#9;static/css/app.c90c7c05a3d8d9ac22244de12d6f866f.css&#10;#&#9;static/css/app.f0e26def7c14d434f4e06675228baf27.css&#10;#&#9;static/js/app.41cdf1da05060c1ea8d4.js.map&#10;#&#9;static/js/app.9067a748e404d57edc39.js.map&#10;#&#9;static/js/app.9a0747dc11103e07aa5a.js.map&#10;#&#9;static/js/manifest.0bfd1808fb9d1620c20d.js.map&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js.map&#10;#&#9;static/js/manifest.adb9bc3dcc4641588eaa.js.map">
+      <created>1505467445586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505467445586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2107000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1858" height="1080" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25662252" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42182583" sideWeight="0.5022075" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42182583" sideWeight="0.49779248" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843652" sideWeight="0.56456953" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/AKhegai/gg-built&#10;&#10;# Conflicts:&#10;#&#9;index.html&#10;#&#9;static/css/app.a17b3fd9901448906de2c05fa1194ba2.css&#10;#&#9;static/css/app.c90c7c05a3d8d9ac22244de12d6f866f.css&#10;#&#9;static/css/app.f0e26def7c14d434f4e06675228baf27.css&#10;#&#9;static/js/app.41cdf1da05060c1ea8d4.js.map&#10;#&#9;static/js/app.9067a748e404d57edc39.js.map&#10;#&#9;static/js/app.9a0747dc11103e07aa5a.js.map&#10;#&#9;static/js/manifest.0bfd1808fb9d1620c20d.js.map&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js.map&#10;#&#9;static/js/manifest.adb9bc3dcc4641588eaa.js.map" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;index.html&#10;#&#9;static/css/app.a17b3fd9901448906de2c05fa1194ba2.css&#10;#&#9;static/css/app.c90c7c05a3d8d9ac22244de12d6f866f.css&#10;#&#9;static/css/app.f0e26def7c14d434f4e06675228baf27.css&#10;#&#9;static/js/app.41cdf1da05060c1ea8d4.js.map&#10;#&#9;static/js/app.9067a748e404d57edc39.js.map&#10;#&#9;static/js/app.9a0747dc11103e07aa5a.js.map&#10;#&#9;static/js/manifest.0bfd1808fb9d1620c20d.js.map&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js.map&#10;#&#9;static/js/manifest.adb9bc3dcc4641588eaa.js.map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;index.html&#10;#&#9;static/css/app.a17b3fd9901448906de2c05fa1194ba2.css&#10;#&#9;static/css/app.c90c7c05a3d8d9ac22244de12d6f866f.css&#10;#&#9;static/css/app.f0e26def7c14d434f4e06675228baf27.css&#10;#&#9;static/js/app.41cdf1da05060c1ea8d4.js.map&#10;#&#9;static/js/app.9067a748e404d57edc39.js.map&#10;#&#9;static/js/app.9a0747dc11103e07aa5a.js.map&#10;#&#9;static/js/manifest.0bfd1808fb9d1620c20d.js.map&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js&#10;#&#9;static/js/manifest.289b2b1c5705e06b54f3.js.map&#10;#&#9;static/js/manifest.adb9bc3dcc4641588eaa.js.map" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="56" lean-forward="true" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
